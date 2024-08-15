@@ -1,0 +1,501 @@
+Hãng sản xuất,Bộ nhớ trong_,Ram_,Chipset(CPU),man hinh,pin,Primary,Ultra_Wide,Telephoto,Giá
+Samsung,128,4,Helio G85,6.7,5000.0,50,2,0,3090000
+Apple,128,6,Apple A15 Bionic,6.1,3279.0,12,12,0,25990000
+INOI,256,8,Unisoc T606 (12 nm),7.0,5000.0,16,2,2,3390000
+Apple,128,6,Apple A16 Bionic,6.1,3200.0,48,12,12,31990000
+Samsung,256,8,Snapdragon 8 Gen 2 for Galaxy,6.7,3700.0,12,12,0,25990000
+Xiaomi,128,6,Snapdragon 680 4G (6 nm),11.0,8000.0,8,0,0,4990000
+Samsung,256,8,Snapdragon 8 Gen 1 8 nhân,6.1,3700.0,50,10,12,23490000
+Oppo,256,8,MediaTek Dimensity 900 5G,6.43,4500.0,64,8,2,12990000
+Xiaomi,128,8,MediaTek MT6891Z Dimensity 1100 (6 nm),6.6,5000.0,64,8,2,Liên hệ
+Xiaomi,32,2,MediaTek Helio G36,6.52,5000.0,8,0,0,2990000
+Xiaomi,256,16,Snapdragon 8 Gen 3 (4 nm),6.67,5000.0,50,50,12,17990000
+Xiaomi,128,8,MediaTek Dimensity 8100 (5 nm),6.6,5080.0,64,8,2,7990000
+Realme,256,12,MediaTek MT6893 Dimensity 1200 (6 nm),6.43,4500.0,64,8,2,7450000
+Samsung,256,8,Exynos 1380,6.4,5000.0,50,12,5,11490000
+Xiaomi,256,12,Dimensity 8300 Ultra (4 nm),6.67,5500.0,64,8,2,9990000
+Xiaomi,64,4,MediaTek MT6833 Dimensity 700 5G (7nm) 8 nhân,6.58,5000.0,13,0,0,4990000
+Apple,128,6,Apple A16 Bionic,6.1,3349.0,48,12,12,23990000
+INOI,128,48,Unisoc T107,1.8,1000.0,8,0,0,Liên hệ
+Realme,64,4,Unisoc T612,6.74,5000.0,13,0,0,2990000
+Tecno,64,4,Unisoc T606 (12 nm),6.6,5000.0,13,8,0,2190000
+Xiaomi,256,16,Mediatek Dimensity 9200+ (4 nm),6.67,5000.0,8,2,0,11990000
+Oppo,256,8,Qualcomm SM6225 Snapdragon 680 4G (6 nm),6.43,4500.0,64,2,2,8990000
+Apple,256,,Apple A15 Bionic,4.7,0.0,12,0,0,Liên hệ
+Realme,256,12,Snapdragon 7+ Gen 2,6.74,5500.0,64,8,2,8490000
+Xiaomi,128,8,Qualcomm Snapdragon 870,6.67,4500.0,48,8,2,8450000
+ZTE,64,4,Unisoc SC9863A,6.6,5000.0,13,2,0,2090000
+Oppo,64,4,MediaTek Helio G35,6.52,4230.0,13,0,0,3690000
+Xiaomi,128,4,Snapdragon 4 Gen 1,6.67,5000.0,48,2,0,4490000
+Xiaomi,64,4,MediaTek Helio G99 (6nm),6.58,5000.0,50,2,2,3990000
+Samsung,256,12,Snapdragon 888 (5nm),6.23,4400.0,12,0,0,41990000
+Xiaomi,128,8,Qualcomm Snapdragon 685 (6 nm),6.67,5000.0,50,8,2,5990000
+Xiaomi,128,6,Snapdragon 680 4G (6 nm),11.0,8000.0,8,0,0,5990000
+Realme,256,12,Dimensity 7050 (6 nm),6.7,5000.0,100,2,0,7590000
+Apple,512,6,Apple A16 Bionic,6.7,4352.0,48,12,12,Liên hệ
+Samsung,128,8,Snapdragon 778G 5G 8 nhân,6.7,5000.0,108,12,5,Liên hệ
+Tecno,128,8,Helio G85 (12nm),6.6,5000.0,50,8,0,3490000
+Samsung,64,4,Exynos 850 (8nm),6.5,5000.0,2,0,0,3790000
+Xiaomi,256,8,MediaTek Helio G96 8 nhân,6.43,5000.0,108,8,2,6990000
+Xiaomi,64,6,Qualcomm SM7150-AC Snapdragon 732G (8 nm),6.67,5160.0,64,13,2,Liên hệ
+Xiaomi,128,8,Snapdragon 8 Gen 2 (4 nm),6.67,5000.0,54,8,2,Liên hệ
+Apple,256,6,Apple A15 Bionic,6.7,0.0,12,12,0,31990000
+Xiaomi,,,MediaTek Dimensity 8 nhân,6.67,5000.0,108,2,0,Liên hệ
+Xiaomi,512,12,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.67,5000.0,108,8,2,11950000
+Xiaomi,128,8,MediaTek Dimensity 1080 (6 nm),6.67,5000.0,8,2,0,7990000
+Xiaomi,128,6,Snapdragon 695 5G 8 nhân,6.67,5000.0,108,8,2,Liên hệ
+Xiaomi,256,8,Mediatek Dimensity 6080 (6 nm),6.67,5000.0,100,2,0,Liên hệ
+Realme,512,12,Snapdragon 7+ Gen 2,6.74,5500.0,64,8,2,8990000
+Realme,128,8,Snapdragon 695 5G 8 nhân,6.6,5000.0,50,2,2,Liên hệ
+Xiaomi,256,12,Snapdragon 8 Gen 2 (4 nm),6.67,5000.0,54,8,2,Liên hệ
+Xiaomi,256,12,Dimensity 8200 Ultra (4 nm),6.67,5000.0,50,50,12,12990000
+Samsung,128,8,2 nhân 2.4 GHz & 6 nhân 2 GHz,6.4,5000.0,48,8,5,8490000
+Xiaomi,256,8,Snapdragon 8 GEN 2,6.36,0.0,50,10,12,Liên hệ
+ZTE,512,12,Snapdragon 8 Gen 2 (4 nm),6.8,5000.0,64,64,50,Liên hệ
+Realme,64,4,UNISOC T612,6.745,5000.0,50,0,0,Liên hệ
+Vivo,256,12,Snapdragon 8s Gen 3 (4 nm),6.78,6000.0,50,8,0,8990000
+Samsung,32,2,Unisoc T606 8 nhân,6.5,5000.0,48,2,0,2990000
+ZTE,256,12,Snapdragon 8 Gen 3 (4 nm),6.8,6500.0,50,50,2,19990000
+Xiaomi,256,12,Qualcomm Snapdragon 870,6.67,4500.0,48,8,2,7990000
+Realme,256,8,Octa-core (1x2.8 GHz Cortex-A715 & 4x2.6 GHz Cortex-A715 & 3x1.9 GHz Cortex-A510),6.78,5500.0,50,8,0,7950000
+Xiaomi,512,16,Mediatek Dimensity 9200+ (4 nm),6.67,5000.0,8,2,0,Liên hệ
+Realme,64,4,Octa-core 1.6 GHz,6.5,5000.0,0,0,0,3190000
+Apple,256,6,Apple A16 Bionic,6.7,4352.0,48,12,12,Liên hệ
+Realme,256,8,Snapdragon 695 5G 8 nhân,6.6,5000.0,50,2,2,Liên hệ
+Samsung,128,4,Chip Exynos 850,6.6,5000.0,50,5,2,Liên hệ
+Xiaomi,256,8,Snapdragon 7+ Gen 2,6.67,5000.0,64,8,2,7990000
+Apple,128,6,Apple A15 Bionic,6.7,0.0,12,12,0,28990000
+Realme,256,8,Dimensity 7050 (6 nm),6.7,5000.0,100,2,0,6990000
+Samsung,256,12,Exynos 2400,6.7,4900.0,50,10,12,26990000
+Apple,128,6,Apple A16 Bionic,6.7,4352.0,48,12,12,Liên hệ
+Xiaomi,128,8,Mediatek Helio G88 (12nm),6.79,5000.0,50,8,2,4990000
+Samsung,512,12,Snapdragon 8 Gen 3 (4 nm),6.3,4400.0,50,10,12,43990000
+Xiaomi,256,12,Snapdragon 8 Gen 2 (4 nm),8.03,4800.0,50,10,10,34990000
+Xiaomi,256,8,Dimensity 8300 Ultra (4 nm),6.67,5500.0,64,8,2,9990000
+Xiaomi,256,8,Mediatek Dimensity 8200 (4 nm),6.67,5500.0,48,2,2,10990000
+Samsung,512,12,Snapdragon 8 Gen 3 (4 nm),3.4,4000.0,50,12,0,32990000
+Xiaomi,128,8,MediaTek Helio G95,6.43,5000.0,64,8,2,Liên hệ
+Xiaomi,256,12,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.67,5500.0,64,8,2,12990000
+Xiaomi,512,12,Snapdragon 7s Gen 2,6.67,5100.0,200,8,2,6990000
+Xiaomi,256,12,Dimensity 1080 (6 nm),6.67,5000.0,200,8,2,8990000
+Xiaomi,64,4,MediaTek MT6769Z Helio G85 (12nm),6.71,5000.0,50,0,0,Liên hệ
+Nokia,128,,Unisoc T107 (22 nm),2.4,1450.0,3,0,0,1790000
+Samsung,64,4,Mediatek Helio P35,6.4,5000.0,2,0,0,3690000
+Realme,256,12,MediaTek Dimensity 8100 (5 nm),6.7,5000.0,8,2,0,7190000
+Samsung,128,6,Mediatek MT8781 Helio G99 (6nm),6.5,5000.0,50,5,2,6990000
+Apple,64,4,Apple A14 Bionic (5nm),6.1,2815.0,12,0,0,Liên hệ
+Xiaomi,128,8,Snapdragon 8 Gen 2 (4 nm),12.4,10000.0,50,2,0,17900000
+Samsung,64,4,Helio G85,6.7,5000.0,50,2,0,3090000
+Samsung,128,4,Snapdragon 680 4G,6.7,5000.0,50,2,2,3990000
+ZTE,512,16,ualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),6.8,5000.0,50,8,2,21990000
+Oppo,256,8,Qualcomm SM6375 Snapdragon 695 5G (6 nm),6.43,4500.0,64,2,2,10490000
+Xiaomi,128,6,Helio G85 (12nm),6.74,5000.0,50,2,8,Liên hệ
+Samsung,256,8,Qualcomm SM8550 Snapdragon 8 Gen 2 (4 nm),6.1,3900.0,50,10,12,24990000
+INOI,128,4,Unisoc T310,6.5,5000.0,13,2,2,2990000
+Xiaomi,256,12,Snapdragon 8 Gen 2 (4 nm),6.67,5000.0,50,8,2,12990000
+Xiaomi,256,12,Mediatek Dimensity 9200+ (4 nm),6.67,5000.0,8,2,0,10990000
+Tecno,256,8,Mediatek Helio G99 Ultimate,6.78,5000.0,50,2,0,6990000
+Xiaomi,256,8,Qualcomm SM7150 Snapdragon 732G (8 nm),6.67,5000.0,108,2,2,7990000
+Apple,128,,Apple A15,6.1,3240.0,12,0,0,24490000
+Samsung,128,6,Mediatek Helio G80,6.4,5000.0,64,8,5,Liên hệ
+Samsung,256,12,Snapdragon 8 Gen 1 8 nhân,6.8,5000.0,108,12,10,33990000
+Xiaomi,256,8,Snapdragon 8 Gen 1 8 nhân,6.28,4500.0,50,13,5,Liên hệ
+Apple,64,,Apple A15 Bionic,4.7,0.0,12,0,0,Liên hệ
+Xiaomi,512,16,Snapdragon 8 Gen 3 (4 nm),6.67,5000.0,50,50,12,19990000
+Samsung,128,6,Exynos 1280 (5 nm),6.5,5000.0,50,8,2,6590000
+Nokia,4,4,,1.77,800.0,0,0,0,420000
+Samsung,512,12,Snapdragon 8 Gen 3 (4 nm),6.8,5000.0,200,50,10,37490000
+Xiaomi,128,8,Snapdragon 695 5G 8 nhân,6.67,5000.0,108,8,2,8990000
+Xiaomi,128,8,Qualcomm SM7350-AB Snapdragon 780G (5 nm),6.55,4250.0,0,0,0,Liên hệ
+Xiaomi,512,12,Snapdragon 8 Gen 3,6.73,5000.0,50,50,50,32990000
+Xiaomi,128,8,Mediatek Helio G99 Ultra,6.67,5000.0,200,8,2,7290000
+Xiaomi,128,6,Mediatek MT6769Z Helio G85 (12nm),6.74,5000.0,50,2,8,3490000
+Samsung,512,8,Qualcomm SM8550 Snapdragon 8 Gen 2 (4 nm),6.6,4700.0,50,10,12,29990000
+Realme,64,3,Unisoc Tiger T612 (12 nm),6.74,5000.0,50,0,0,3990000
+Samsung,128,6,2 nhân 2.4 GHz & 6 nhân 2 GHz,6.4,5000.0,48,8,5,8490000
+Samsung,32,3,Helio P35,6.5,5000.0,50,2,0,Liên hệ
+Realme,1,16,Snapdragon 7+ Gen 2,6.74,5500.0,64,8,2,9990000
+Google,128,8,Google Tensor G3,6.1,4485.0,50,0,0,Liên hệ
+Xiaomi,256,12,Snapdragon 8 Gen 3 (4 nm),6.67,5000.0,50,50,12,15990000
+Xiaomi,128,8,Qualcomm Snapdragon 7xx 8 nhân,6.67,5500.0,200,8,2,Liên hệ
+BPhone,64,4,Helio G85,6.7,5000.0,0,0,0,4490000
+Oppo,32,3,MediaTek Helio G35,6.52,4230.0,13,0,0,3690000
+Realme,128,8,Qualcomm SM6225 Snapdragon 685 (6 nm),6.72,5000.0,108,2,0,4990000
+Samsung,128,8,Exynos 1380 (5 nm),6.6,5000.0,50,8,5,8290000
+Xiaomi,128,8,Snapdragon 7 Gen 1 (4 nm),6.55,4500.0,8,2,0,10990000
+Tecno,128,8,MediaTek Helio G99 (6nm),6.78,6000.0,50,0,0,4990000
+Xiaomi,128,8,Snapdragon 4 Gen 1,6.67,5000.0,48,2,0,5490000
+Xiaomi,128,8,Snapdragon 8 GEN 2,6.36,0.0,50,10,12,11990000
+Xiaomi,32,2,MediaTek Helio G25,6.53,5000.0,13,2,0,Liên hệ
+Apple,128,,Apple A15 Bionic,4.7,0.0,12,0,0,Liên hệ
+ZTE,256,16,ualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),6.8,5000.0,50,8,2,19990000
+Xiaomi,512,12,Mediatek Dimensity 8200 (4 nm),6.67,5500.0,48,2,2,10990000
+Apple,512,6,Apple A16 Bionic,6.7,4352.0,48,12,12,Liên hệ
+Xiaomi,256,12,Mediatek Dimensity 9200+ (4 nm),6.67,5000.0,8,2,0,Liên hệ
+Xiaomi,128,6,Mediatek Helio G91 Ultra,6.79,5030.0,108,2,0,4990000
+Samsung,128,6,Chip Exynos 850,6.6,5000.0,50,5,2,Liên hệ
+Samsung,32,3,Mediatek Helio P35,6.4,5000.0,2,0,0,3390000
+Tecno,64,3,Unisoc T606 (12 nm),6.6,5000.0,13,8,0,1990000
+Xiaomi,256,12,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.67,5000.0,108,8,2,11950000
+Xiaomi,128,6,Mediatek Dimensity 6080 (6 nm),6.67,5000.0,100,2,0,4990000
+Samsung,128,8,Snapdragon 8 Gen 1 8 nhân,6.8,5000.0,108,12,10,30990000
+Nokia,32,3,SC9863A 8 nhân 1.6GHz,6.82,6000.0,13,2,0,3290000
+Oppo,128,8,Snapdragon 695 5G 8 nhân,6.43,4500.0,64,2,2,10490000
+Xiaomi,128,8,Snapdragon 8+ Gen 1 (4 nm),11,8600.0,50,2,0,9990000
+Samsung,128,8,2 nhân 2.4 GHz & 6 nhân 2 GHz,6.4,5000.0,48,8,5,8490000
+Samsung,128,8,Exynos 1380,6.4,5000.0,50,12,5,10490000
+Realme,1,16,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.74,5000.0,8,2,0,Liên hệ
+Xiaomi,256,12,Snapdragon 8 Gen 2 (4 nm),6.67,0.0,50,8,2,12990000
+Samsung,1,12,Snapdragon 8 Gen 3 (4 nm),6.3,4400.0,50,10,12,54990000
+Xiaomi,256,8,Qualcomm Snapdragon 685,6.67,5000.0,108,8,2,5990000
+Xiaomi,128,8,Mediatek Dimensity 8200 (4 nm),6.67,5500.0,48,2,2,10990000
+Apple,128,4,Apple A14 Bionic (5nm),6.1,2815.0,12,0,0,21600000
+Xiaomi,256,12,Mediatek Dimensity 6080 (6 nm),6.67,5000.0,100,2,0,6990000
+Realme,1,16,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.74,5000.0,8,2,0,Liên hệ
+Xiaomi,128,6,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),6.67,5000.0,108,8,2,8990000
+Xiaomi,128,8,Snapdragon 7s Gen 2,6.67,5100.0,200,8,2,6990000
+Samsung,128,8,Snapdragon 8+ Gen 1 (4 nm),6.7,3700.0,12,12,0,25990000
+ZTE,256,8,Snapdragon 8 Gen 2 (4 nm),6.8,6000.0,50,8,2,16990000
+Xiaomi,256,8,Mediatek Helio G99 Ultra,6.67,5000.0,200,8,2,7990000
+Xiaomi,128,8,Qualcomm SM8250-AC Snapdragon 870 5G (7 nm),11,8840.0,13,0,0,7590000
+Xiaomi,128,8,Snapdragon 8 Gen 2 (4 nm),6.73,4820.0,50,50,50,19990000
+Samsung,256,6,Snapdragon 8+ Gen 1 (4 nm),6.7,3700.0,12,12,0,23990000
+Xiaomi,128,8,Qualcomm Snapdragon 685,6.67,5000.0,108,8,2,5290000
+Apple,128,4,Apple A13 Bionic (7 nm+),6.1,3110.0,12,0,0,21690000
+Samsung,256,8,Snapdragon 8 Gen 1 8 nhân,6.6,4800.0,50,10,12,27490000
+Oppo,256,12,Mediatek Dimensity 6300 (6 nm),6.67,5000.0,50,8,2,9490000
+Tecno,256,8,Mediatek MT8781 Helio G99 (6nm),6.67,5000.0,64,2,0,4990000
+Samsung,128,4,Qualcomm SM6375 Snapdragon 695 5G (6 nm),6.6,5000.0,50,5,2,6690000
+Realme,128,8,MediaTek Dimensity 1080 (6 nm),6.7,5000.0,108,8,2,Liên hệ
+Samsung,512,8,Snapdragon 8 Gen 2 for Galaxy,6.7,3700.0,12,12,0,29990000
+Nokia,64,3,Unisoc T606,6.52,5000.0,50,2,0,3590000
+Xiaomi,128,8,MediaTek Helio G96 8 nhân,6.43,5000.0,108,8,2,Liên hệ
+Google,128,12,Google Tensor G3,6.7,0.0,50,64,48,25990000
+Xiaomi,256,12,Snapdragon 7s Gen 2,6.67,5100.0,200,8,2,6590000
+Apple,512,6,Apple A16 Bionic,6.1,3200.0,48,12,12,Liên hệ
+Xiaomi,128,4,Qualcomm Snapdragon 685 (6 nm),6.67,5000.0,50,8,2,4990000
+INOI,128,48,Unisoc T107,2.4,1200.0,8,0,0,Liên hệ
+Samsung,256,8,Snapdragon 8 Gen 3 (4 nm),3.4,4000.0,50,12,0,28990000
+Xiaomi,256,12,MediaTek Dimensity 1080 (6 nm),6.67,5000.0,8,2,0,Liên hệ
+Xiaomi,256,8,Snapdragon 8 Gen 2 (4 nm),6.73,4820.0,50,50,50,Liên hệ
+Xiaomi,64,3,Mediatek Helio G36 (12 nm),6.71,5000.0,8,8,0,Liên hệ
+Xiaomi,256,12,Dimensity 7200 Ultra (4 nm),6.67,5000.0,200,8,2,7990000
+Oscal,256,12,MediaTek Helio G99,6.78,5000.0,64,2,0,4590000
+Samsung,512,12,Exynos 2400,6.7,4900.0,50,10,12,30490000
+Tecno,128,8,Mediatek MT8781 Helio G99 (6nm),6.82,6000.0,50,0,0,4490000
+Xiaomi,512,12,,6.67,5000.0,64,8,2,7990000
+Samsung,256,8,Exynos 2400,6.2,4000.0,50,10,12,22990000
+Oppo,128,8,Qualcomm® Snapdragon™ 662,6.43,5000.0,48,2,2,6990000
+Xiaomi,32,2,MediaTek Helio G25 8 nhân,6.53,5000.0,13,0,0,Liên hệ
+Xiaomi,32,2,MediaTek MT6761 (Helio A22),6.52,5000.0,8,0,0,2190000
+Oppo,128,8,MediaTek Dimensity 900 5G,6.43,4300.0,64,8,2,12990000
+Realme,256,8,MediaTek Dimensity 1080 (6 nm),6.7,5000.0,108,8,2,Liên hệ
+Oppo,128,4,Mediatek MT6765G Helio G35 (12 nm),6.56,5000.0,13,2,0,4490000
+BPhone,128,4,Helio G85,6.7,5000.0,0,0,0,Liên hệ
+Realme,128,6,Mediatek Helio G88 (12nm),6.72,0.0,64,2,0,4990000
+Xiaomi,128,4,Mediatek Helio G88 (12nm),6.79,5000.0,50,8,2,3990000
+Xiaomi,256,8,Snapdragon 7s Gen 2,6.67,5100.0,200,8,2,9990000
+Xiaomi,256,8,Snapdragon 8 GEN 2,6.36,0.0,50,10,12,Liên hệ
+Tecno,256,8,Mediatek Helio G99 Ultimate,6.78,5000.0,50,2,0,6490000
+Xiaomi,256,12,Snapdragon 8s Gen 3 (4 nm),6.67,5000.0,50,8,2,8490000
+Samsung,512,12,Qualcomm SM8550 Snapdragon 8 Gen 2 (4 nm),6.8,5000.0,200,10,10,36990000
+Xiaomi,256,12,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),6.73,5000.0,50,50,50,20990000
+BPhone,128,6,Helio G85,6.7,5000.0,0,0,0,6490000
+Oppo,64,4,MediaTek Helio G35,6.5,5000.0,50,2,2,4990000
+Samsung,32,3,Unisoc T606 8 nhân,6.5,5000.0,48,2,0,2990000
+Oppo,128,8,Qualcomm SM6375 Snapdragon 695 5G (6 nm),6.7,4800.0,108,2,2,9990000
+Xiaomi,256,8,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),6.67,5000.0,108,13,5,Liên hệ
+Realme,256,12,MediaTek Dimensity 8100 (5 nm),6.7,5000.0,8,2,0,Liên hệ
+Xiaomi,256,12,Snapdragon 8+ Gen 1 (4 nm),8.02,4500.0,50,8,13,30990000
+Xiaomi,256,12,Snapdragon 8+ Gen 1 (4 nm),11,8600.0,50,2,0,12990000
+Samsung,256,8,Dimensity 1080,6.6,5000.0,48,8,5,9990000
+Samsung,128,8,Dimensity 1080,6.6,5000.0,48,8,5,8490000
+Xiaomi,256,12,Snapdragon 8 Gen 2 (4 nm),6.73,4820.0,50,50,50,Liên hệ
+Xiaomi,128,6,Qualcomm Snapdragon 685,6.67,5000.0,108,8,2,4890000
+Oppo,128,6,Mediatek MT6769 Helio G85 (12nm),6.72,5000.0,50,2,0,5690000
+ZTE,128,8,Unisoc T606 Octa-Core 1.6GHz,6.6,5000.0,50,2,2,2990000
+Oppo,64,4,Mediatek MT6769 Helio G85 (12nm),6.56,5000.0,8,2,0,3990000
+Xiaomi,256,8,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.67,5500.0,64,8,2,Liên hệ
+Samsung,128,8,Exynos 1280,6.5,6000.0,50,2,0,7990000
+Oppo,64,4,Lõi tám (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55),6.56,5000.0,50,2,0,3990000
+ZTE,256,16,Unisoc T606,6.6,5000.0,50,2,0,Liên hệ
+Samsung,128,8,Exynos 1480,6.6,5000.0,50,12,5,9990000
+Xiaomi,256,16,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.67,0.0,64,8,2,9990000
+Xiaomi,256,8,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.73,4860.0,50,48,48,Liên hệ
+Xiaomi,256,12,Qualcomm SM8350 Snapdragon 888 5G (5 nm),6.67,5000.0,108,8,5,Liên hệ
+Apple,256,6,Apple A16 Bionic,6.1,3200.0,48,12,12,Liên hệ
+Xiaomi,128,8,Snapdragon 8+ Gen 1 (4 nm),6.73,4600.0,50,50,50,Liên hệ
+Realme,256,8,Snapdragon 7+ Gen 2,6.74,5500.0,64,8,2,Liên hệ
+Xiaomi,256,8,MediaTek Dimensity 1080 (6 nm),6.67,5000.0,8,2,0,Liên hệ
+Samsung,512,12,Snapdragon 8 Gen 1 8 nhân,6.8,5000.0,108,12,10,36990000
+Oppo,256,12,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),6.7,4600.0,50,32,8,14990000
+Xiaomi,512,16,Dimensity 7200 Ultra (4 nm),6.67,5000.0,200,8,2,Liên hệ
+Xiaomi,256,8,Snapdragon 7s Gen 2,6.67,5100.0,200,8,2,6990000
+Xiaomi,128,6,Qualcomm SM8250-AC Snapdragon 870 5G (7 nm),11,8840.0,13,0,0,7990000
+Realme,256,16,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.74,5000.0,8,2,0,12990000
+Realme,128,8,Qualcomm SM8250-AC Snapdragon 870 5G (7 nm),6.62,5000.0,64,8,2,Liên hệ
+Samsung,128,8,Exynos 2200 (4 nm),6.4,4500.0,50,8,12,14990000
+Apple,256,8,A17 Pro,6.7,4422.0,48,12,0,36990000
+Realme,256,12,Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm),6.78,5500.0,50,8,0,9690000
+Xiaomi,128,6,Snapdragon 4 Gen 1,6.67,5000.0,48,2,0,4990000
+Nokia,128,48,Unisoc T107,1.8,1020.0,8,0,0,810000
+Realme,256,12,Dimensity 7050 (6 nm),6.7,5000.0,200,8,2,8990000
+Xiaomi,256,12,Snapdragon 8 Gen 2 (4 nm),6.73,4820.0,50,50,50,Liên hệ
+Realme,256,12,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.74,5000.0,8,2,0,12990000
+Nokia,,,Unisoc T107,1.77,0.0,0,0,0,710000
+Nokia,128,4,Unisoc SC9863A,6.5,5000.0,0,0,0,3290000
+Tecno,128,8,Mediatek Helio G88 (12nm),6.8,5000.0,50,8,0,3990000
+Samsung,512,12,Snapdragon 8 Gen 2 for Galaxy,7.6,4400.0,50,12,12,44990000
+Xiaomi,256,12,Mediatek Dimensity 8200 Ultra (4 nm),6.55,4500.0,50,8,2,8990000
+Tecno,256,8,Mediatek Helio G99 Ultimate,6.78,5000.0,108,2,32,5490000
+Xiaomi,256,8,Snapdragon 8 Gen 2 (4 nm),6.67,5000.0,54,8,2,Liên hệ
+INOI,128,6,Unisoc T606,6.5,4000.0,48,2,2,2590000
+Oppo,64,3,Mediatek MT6765 Helio G35 (12 nm),6.56,5000.0,8,0,0,3290000
+Samsung,1,12,Snapdragon 8 Gen 3 (4 nm),6.8,5000.0,200,50,10,44490000
+Apple,256,6,6-core CPU,6.1,0.0,48,12,12,Liên hệ
+Nokia,,,Unisoc T107,1.8,1450.0,0,0,0,780000
+Apple,64,4,Apple A13 Bionic (7 nm+),6.1,3110.0,12,0,0,14990000
+ZTE,256,8,Snapdragon 8 Gen 2 (4 nm),6.8,6000.0,50,8,2,16990000
+Nokia,32,3,Unisoc T606,6.52,5000.0,50,2,0,3390000
+Oppo,128,8,Qualcomm SM6225 Snapdragon 680 4G (6 nm),6.56,5000.0,0,0,0,6290000
+Xiaomi,128,8,MediaTek Dimensity 8100-Ultra,6.67,5000.0,108,8,2,12490000
+Xiaomi,256,12,MediaTek Dimensity 8100 (5 nm),6.67,5500.0,48,8,2,9490000
+Samsung,256,8,Qualcomm SM8550 Snapdragon 8 Gen 2 (4 nm),6.6,4700.0,50,10,12,26990000
+TCL,64,4,Helio G25,6.6,5000.0,13,2,0,2190000
+Xiaomi,256,8,,6.78,0.0,0,0,0,7990000
+Tecno,256,8,MTK Helio G99 Ultimate,6.78,6000.0,108,0,0,6490000
+Samsung,128,4,MediaTek MT6833 Dimensity 700 (7 nm),6.6,5000.0,50,2,2,Liên hệ
+Xiaomi,256,8,Snapdragon 8+ Gen 1 (4 nm),11,8600.0,50,2,0,9990000
+INOI,128,4,MediaTek G88,6.75,5000.0,50,16,8,Liên hệ
+Xiaomi,128,8,MediaTek Helio G96 8 nhân,6.67,5000.0,108,8,2,Liên hệ
+ZTE,256,16,Snapdragon 8 Gen 3 (4 nm),6.8,5500.0,50,50,2,Liên hệ
+Samsung,128,4,Snapdragon 680 (SM6225),6.6,5000.0,50,5,2,5690000
+Xiaomi,1,16,Mediatek Dimensity 9200+ (4 nm),6.67,5000.0,8,2,0,Liên hệ
+Oppo,256,8,Octa-core (2x2.6 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55),6.7,5000.0,64,8,2,8690000
+Xiaomi,128,4,Mediatek MT6769Z Helio G85 (12nm),6.74,5000.0,50,2,8,3590000
+Samsung,128,6,Mediatek MT8781 Helio G99 (6nm),6.5,5000.0,50,5,2,6490000
+Samsung,256,8,Qualcomm SM8550 Snapdragon 8 Gen 2 (4 nm),6.8,5000.0,200,10,10,31990000
+Tecno,64,4,MediaTek MT6762D Helio A25 (12 nm),6.52,5000.0,13,0,0,Liên hệ
+Oppo,256,12,Mediatek Dimensity 7300 Energy (4 nm),6.7,5000.0,50,8,2,12990000
+Tecno,256,8,MediaTek Helio G99 (6nm),6.78,6000.0,50,0,0,5990000
+Oppo,256,8,MediaTek Helio G99 (6nm),6.43,5000.0,100,2,2,8990000
+Tecno,256,8,MediaTek MT6769Z Helio G85 (12nm),6.67,5000.0,64,2,0,4990000
+Samsung,128,4,Qualcomm SM7225 Snapdragon 750 5G (8 nm),6.6,5000.0,48,12,5,3290000
+Nokia,128,48,Unisoc T107,1.8,1020.0,0,0,0,710000
+ZTE,128,4,Unisoc SC9863A,6.6,5000.0,13,2,0,2290000
+Xiaomi,256,8,MediaTek Dimensity 8100 (5 nm),6.67,5500.0,48,8,2,9490000
+ZTE,256,8,Chipset Qualcomm SM8550-AB,6.8,0.0,50,8,2,Liên hệ
+Oppo,256,8,Snapdragon 680 4G (6nm),6.43,5000.0,50,2,0,6990000
+Apple,256,6,Apple A15 Bionic,6.1,3279.0,12,12,0,28990000
+Xiaomi,128,6,Qualcomm SM6375 Snapdragon 695 5G (6 nm),6.67,5000.0,48,8,2,6990000
+ZTE,128,8,Unisoc T606 Octa-Core 1.6GHz,6.6,5000.0,50,2,2,3290000
+Samsung,128,8,Snapdragon 8 Gen 1 8 nhân,6.6,4500.0,50,10,12,25990000
+Xiaomi,1,16,,6.67,5000.0,64,8,2,7990000
+Xiaomi,512,12,Dimensity 7200 Ultra (4 nm),6.67,5000.0,200,8,2,8590000
+Xiaomi,256,12,,6.67,5000.0,64,8,2,6990000
+Apple,256,4,Apple A15 Bionic Chip,6.1,3240.0,0,0,0,27990000
+Apple,128,8,,6.1,0.0,48,12,12,30990000
+Xiaomi,256,8,Qualcomm Snapdragon 870,6.67,4500.0,48,8,2,8450000
+ZTE,64,4,Unisoc SC9863A1,6.75,5000.0,13,0,0,Liên hệ
+Xiaomi,256,12,Snapdragon 8 GEN 2,6.36,0.0,50,10,12,16990000
+Samsung,128,8,Snapdragon 8 Gen 1 8 nhân,6.1,3700.0,50,10,12,21990000
+Realme,256,8,Qualcomm SM8250-AC Snapdragon 870 5G (7 nm),6.62,5000.0,64,8,2,Liên hệ
+Oppo,128,8,Dimensity 7050,6.7,5000.0,64,32,8,10990000
+Samsung,128,4,Exynos 850,6.6,5000.0,50,5,2,Liên hệ
+Xiaomi,1,24,Mediatek Dimensity 9200+ (4 nm),6.67,5000.0,8,2,0,Liên hệ
+ZTE,256,12,Qualcomm Snapdragon 8+ Gen 2 (4 nm),6.8,5000.0,50,8,2,Liên hệ
+Xiaomi,128,8,Mediatek Dimensity 6080 (6 nm),6.67,5000.0,100,2,0,5990000
+Samsung,32,3,Mediatek MT6765 Helio P35 (12nm),6.5,5000.0,13,2,0,3990000
+Xiaomi,128,8,Snapdragon 8 Gen 2 (4 nm),6.67,5000.0,54,8,2,10990000
+Xiaomi,256,12,Dimensity 7200 Ultra (4 nm),6.67,5000.0,200,8,2,10990000
+Xiaomi,128,6,MediaTek Dimensity 1080 (6 nm),6.67,5000.0,8,2,0,Liên hệ
+Samsung,256,12,Snapdragon 8 Gen 2 for Galaxy,7.6,4400.0,50,12,12,40990000
+ZTE,64,2,Unisoc SC9863A,6.6,5000.0,5,2,0,1790000
+Samsung,512,12,Snapdragon 8 Gen 3 (4 nm),6.3,4400.0,50,10,12,47990000
+INOI,,,,2,1000.0,3,0,0,1190000
+Tecno,256,8,Mediatek Helio G88 (12nm),6.8,5000.0,50,8,0,4990000
+Tecno,128,4,Mediatek,6.6,5000.0,50,8,0,2690000
+Xiaomi,256,16,,6.67,5000.0,64,8,2,9090000
+Samsung,256,12,Snapdragon 8 Gen 3 (4 nm),6.8,5000.0,200,50,10,33990000
+Xiaomi,256,12,Qualcomm Snapdragon 8 Gen 3 (4 nm),6.36,4610.0,50,50,50,22990000
+Samsung,128,8,Mediatek Helio G99,6.5,5000.0,50,5,2,4990000
+Xiaomi,128,8,Snapdragon 680 4G (6 nm),11.0,8000.0,8,0,0,4990000
+Oppo,128,8,"Qualcomm Snapdragon 662, t?i da 2.0GHz",6.43,5000.0,48,2,2,6990000
+Apple,256,4,Apple A15 Bionic (5 nm),6.1,3240.0,12,12,0,27689000
+Apple,128,4,Apple A13 Bionic (7 nm+),6.1,3110.0,12,12,0,10289000
+Apple,256,4,Apple A12 Bionic (7 nm),6.5,3174.0,12,12,0,10589000
+Apple,128,6,Apple A14 Bionic (5nm),6.7,3687.0,12,12,12,Cập Nhật
+Apple,256,6,Apple A15 Bionic (5 nm),6.7,4352.0,12,12,12,23789000
+Oppo,128,4,Mediatek MT6769 Helio G85 (12nm),6.56,5000.0,50,2,0,4989000
+Apple,128,3,Apple A11 Bionic (10 nm),5.5,2691.0,12,12,0,Cập Nhật
+Samsung,128,8,Exynos 2200 (4 nm),6.4,4500.0,12,50,8,14899000
+Samsung,256,12,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),6.8,5000.0,50,10,12,44490000
+Apple,128,6,Apple A14 Bionic (5nm),6.7,3687.0,12,12,12,18689000
+Apple,256,6,Apple A16 Bionic (4 nm),6.1,3200.0,48,12,12,24489000
+Apple,128,6,Apple A16 Bionic (4 nm),6.1,3279.0,12,48,0,Cập Nhật
+Apple,64,4,Apple A13 Bionic (7 nm+),6.1,3110.0,12,12,0,Cập Nhật
+Oppo,256,8,Mediatek Dimensity 8200 (4 nm),6.7,4800.0,50,8,32,10989000
+Xiaomi,128,6,Mediatek MT6769Z Helio G85 (12nm),6.74,5000.0,2,50,8,2990000
+Samsung,256,8,Exynos 2400 (4 nm) 10 nhân,6.2,4000.0,50,10,12,22990000
+Samsung,256,8,Mediatek Helio G99 (6nm),6.5,5000.0,50,2,5,5189000
+Samsung,128,6,Exynos 1280 (5 nm),6.5,5000.0,50,2,8,6589000
+Apple,128,4,Apple A13 Bionic (7 nm+),6.1,3110.0,12,12,0,9289000
+Samsung,128,8,Exynos 1480,6.6,5000.0,12,5,50,9990000
+Samsung,512,12,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.7,4000.0,12,50,0,32900000
+Apple,1,8,Apple A17 Pro (3 nm),6.1,3274.0,48,12,0,43999000
+Samsung,1,12,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),7.6,4400.0,50,12,10,50989000
+Apple,128,6,Apple A14 Bionic (5nm),6.7,3687.0,12,12,12,Cập Nhật
+Apple,64,4,Apple A14 Bionic (5nm),6.1,2815.0,12,12,0,11389000
+Apple,128,6,Apple A16 Bionic (4 nm),6.1,3279.0,12,48,0,21299000
+Apple,128,6,Apple A16 Bionic (4 nm),6.7,4323.0,48,12,12,25989000
+Samsung,32,3,Mediatek MT6765 Helio P35 (12nm),6.5,5000.0,13,2,0,3189000
+Apple,256,6,Apple A16 Bionic (4 nm),6.1,0.0,12,48,0,21299000
+Samsung,128,8,Exynos 1280 (5 nm),6.5,6000.0,50,8,2,7689000
+Apple,512,6,Apple A15 Bionic (5 nm),6.7,4323.0,12,12,0,33989000
+Apple,512,6,Apple A16 Bionic (4 nm),6.7,4383.0,12,48,0,34999000
+Apple,128,6,Apple A15 Bionic (5 nm),6.1,3279.0,12,12,0,21989000
+Xiaomi,128,6,Mediatek MT6769Z Helio G85 (12nm),6.74,5000.0,8,2,50,3489000
+Apple,256,4,Apple A13 Bionic (7 nm+),5.8,3046.0,12,12,12,12089000
+Apple,128,6,Apple A16 Bionic (4 nm),6.7,4323.0,48,12,12,25989000
+Apple,128,6,Apple A15 Bionic (5 nm),6.7,4352.0,12,12,12,24489000
+Apple,256,6,Apple A16 Bionic (4 nm),6.1,0.0,12,48,0,21299000
+Samsung,512,8,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),6.7,3700.0,12,12,0,26589000
+Samsung,128,4,MediaTek Helio G85 (12nm),6.7,5000.0,50,2,0,4189000
+Apple,128,6,Apple A15 Bionic (5 nm),6.1,3279.0,12,12,0,16889000
+Samsung,128,4,Snapdragon 680,6.7,5000.0,50,2,2,3989000
+Apple,128,4,Apple A15 Bionic (5 nm),6.1,3240.0,12,12,0,15489000
+Apple,64,4,Apple A13 Bionic (7 nm+),6.5,3969.0,12,12,12,12789000
+Samsung,256,12,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.7,4000.0,12,50,0,28990000
+Xiaomi,256,12,	Snapdragon 8 Gen 3,6.36,4610.0,50,50,50,22999000
+Apple,64,3,Apple A13 Bionic (7 nm+),4.7,1821.0,12,0,0,5489000
+Apple,256,6,Apple A15 Bionic (5 nm),6.7,4352.0,12,12,12,25189000
+Apple,256,6,Apple A16 Bionic (4 nm),6.1,0.0,12,48,0,19999000
+Samsung,256,12,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.7,4000.0,12,50,0,32900000
+Samsung,256,8,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),6.8,5000.0,12,10,10,28589000
+Apple,512,8,Apple A17 Pro (3 nm),6.1,3274.0,48,12,0,37999000
+Apple,256,6,Apple A16 Bionic (4 nm),6.7,4383.0,12,48,0,28999000
+Apple,256,8,Apple A17 Pro (3 nm),6.1,0.0,48,12,0,27799000
+Apple,64,4,Apple A13 Bionic (7 nm+),4.7,2018.0,12,0,0,6289000
+Xiaomi,128,4,Mediatek Helio G88 (12nm),6.79,5000.0,8,50,2,4289000
+Samsung,256,8,Exynos 2200 (4 nm),6.4,4500.0,12,50,8,16899000
+Samsung,128,8,Mediatek Helio G99 (6nm),6.5,5000.0,50,2,5,4589000
+Apple,64,4,Apple A14 Bionic (5nm),6.1,2815.0,12,12,0,12589000
+Apple,128,4,Apple A13 Bionic (7 nm+),6.1,3110.0,12,12,0,16989000
+Apple,512,6,Apple A15 Bionic (5 nm),6.1,3279.0,12,12,0,28989000
+Samsung,128,4,MediaTek Helio G85 (12nm),6.7,5000.0,50,2,0,3189000
+Samsung,128,4,Mediatek Helio G99 (6nm),6.5,5000.0,50,2,5,5189000
+Apple,128,6,Apple A15 Bionic (5 nm),6.7,4323.0,12,12,0,20989000
+Samsung,256,12,Exynos 2400 (4 nm) 10 nhân,6.7,4900.0,50,10,12,26990000
+Apple,1,6,Apple A16 Bionic (4 nm),6.1,3200.0,48,12,12,36989000
+Samsung,128,8,Exynos 1380 (5 nm),6.6,5000.0,8,5,50,8290000
+Xiaomi,128,8,Mediatek Helio G99 Ultra,6.67,5000.0,2,8,200,6789000
+Apple,128,6,Apple A15 Bionic (5 nm),6.1,3095.0,12,12,12,23489000
+Apple,128,6,Apple A16 Bionic (4 nm),6.7,4383.0,12,48,0,Cập Nhật
+Samsung,512,12,Qualcomm SM8550-AC Snapdragon 8 Gen 3 (4 nm),7.6,4400.0,50,10,12,47990000
+Apple,128,6,Apple A15 Bionic (5 nm),6.7,4352.0,12,12,12,22689000
+Xiaomi,64,6,Mediatek Helio G96 (12 nm),6.43,5000.0,2,108,8,6689000
+Apple,64,4,Apple A13 Bionic (7 nm+),6.1,3110.0,12,12,0,14989000
+Apple,512,6,Apple A16 Bionic (4 nm),6.1,3200.0,48,12,12,35989000
+Samsung,128,8,Exynos 1280 (5 nm),6.5,5000.0,50,2,8,6989000
+Oppo,128,6,Mediatek MT6769 Helio G85 (12nm),6.72,5000.0,2,50,0,4989000
+Apple,64,4,Apple A13 Bionic (7 nm+),5.8,3046.0,12,12,12,10989000
+Apple,128,6,Apple A14 Bionic (5nm),6.7,3687.0,12,12,12,Cập Nhật
+Apple,128,6,Apple A14 Bionic (5nm),6.7,3687.0,12,12,12,20889000
+Apple,256,6,Apple A14 Bionic (5nm),6.1,2815.0,12,12,12,15089000
+Apple,64,4,Apple A13 Bionic (7 nm+),6.1,3110.0,12,12,0,Cập Nhật
+Apple,256,6,Apple A14 Bionic (5nm),6.1,2815.0,12,12,12,16189000
+Apple,128,6,Apple A16 Bionic (4 nm),6.7,4383.0,12,48,0,21999000
+Samsung,128,6, Mediatek Dimensity 6100 Plus,6.45,6000.0,2,2,50,4990000
+Samsung,256,12,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),7.6,4400.0,50,12,10,40989000
+Xiaomi,64,3,Mediatek Helio G36 (12 nm),6.71,5000.0,8,8,0,2490000
+Apple,512,6,Apple A15 Bionic (5 nm),6.7,4323.0,12,12,0,22489000
+Apple,256,4,Apple A13 Bionic (7 nm+),5.8,3046.0,12,12,12,13189000
+Apple,64,4,Apple A14 Bionic (5nm),6.1,2815.0,12,12,0,12589000
+Apple,256,8,Apple A17 Pro (3 nm),6.7,4441.0,48,12,0,Cập Nhật
+Samsung,256,12,Qualcomm SM8550-AC Snapdragon 8 Gen 3 (4 nm),7.6,4400.0,50,10,12,43990000
+Samsung,128,8,Exynos 1480,6.6,5000.0,12,5,50,9990000
+Samsung,128,4,MediaTek Helio G85 (12nm),6.7,5000.0,50,2,0,Cập Nhật
+Xiaomi,128,8,Mediatek Dimensity 6080 (6 nm),6.67,5000.0,108,2,8,6789000
+Apple,256,8,Apple A17 Pro (3 nm),6.7,0.0,48,12,0,27799000
+Apple,64,4,Apple A12 Bionic (7 nm),6.5,3174.0,12,12,0,9489000
+Samsung,1,12,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),7.6,4200.0,50,10,12,49989000
+Apple,128,6,Apple A15 Bionic (5 nm),6.1,3095.0,12,12,12,Cập Nhật
+Apple,256,6,Apple A16 Bionic (4 nm),6.7,4323.0,48,12,12,27189000
+Apple,1,8,Apple A17 Pro (3 nm),6.7,4441.0,48,12,0,46999000
+Apple,256,8,Apple A17 Pro (3 nm),6.7,4441.0,48,12,0,31999000
+Realme,64,4,Unisoc Tiger T612,6.74,5000.0,13,8,0,2790000
+Apple,128,6,Apple A16 Bionic (4 nm),6.1,3200.0,48,12,12,23989000
+Samsung,512,12,Exynos 2400 (4 nm) 10 nhân,6.5,4900.0,50,10,12,22990000
+Apple,128,6,Apple A16 Bionic (4 nm),6.7,4323.0,48,12,12,24689000
+Oppo,512,12,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),7.82,4805.0,48,64,48,44989000
+Samsung,128,6,Exynos 1330 (5nm),6.6,6000.0,2,2,50,5789000
+Samsung,512,12,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),6.8,5000.0,50,10,12,37490000
+Samsung,128,4,Mediatek MT6765 Helio P35 (12nm),6.5,5000.0,13,0,0,3489000
+Apple,256,6,Apple A16 Bionic (4 nm),6.1,3200.0,48,12,12,29989000
+Apple,128,6,Apple A16 Bionic (4 nm),6.7,4323.0,48,12,12,24689000
+Apple,128,8,Apple A17 Pro (3 nm),6.1,3274.0,48,12,0,Cập Nhật
+Samsung,128,4,Snapdragon 680,6.7,5000.0,50,2,2,3989000
+Samsung,128,8,Exynos 1480,6.6,5000.0,12,5,50,9990000
+Apple,64,4,Apple A14 Bionic (5nm),6.1,2815.0,12,12,0,13789000
+Apple,128,6,Apple A15 Bionic (5 nm),6.7,4323.0,12,12,0,20989000
+Apple,128,4,Apple A15 Bionic (5 nm),6.1,3240.0,12,12,0,16489000
+Apple,128,6,Apple A15 Bionic (5 nm),6.7,4323.0,12,12,0,24989000
+Oppo,128,8,Qualcomm SM6225 Snapdragon 680 4G (6 nm),6.43,5000.0,50,2,0,6989000
+Apple,512,8,Apple A17 Pro (3 nm),6.7,4441.0,48,12,0,40999000
+Apple,128,4,Apple A15 Bionic (5 nm),6.1,3240.0,12,12,0,Cập Nhật
+Samsung,256,12,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),6.8,5000.0,50,10,12,33990000
+Samsung,128,8,Mediatek Helio G99 (6nm),6.5,5000.0,50,2,5,5189000
+Samsung,1,12,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),6.8,5000.0,50,10,12,44490000
+Apple,64,4,Apple A13 Bionic (7 nm+),6.5,3969.0,12,12,12,13789000
+Xiaomi,128,8,Snapdragon 685 8 nhân,6.67,5000.0,108,2,8,5889000
+Apple,256,6,Apple A16 Bionic (4 nm),6.7,0.0,12,48,0,21999000
+Apple,64,4,Apple A13 Bionic (7 nm+),4.7,2018.0,12,0,0,6289000
+Apple,128,6,Apple A14 Bionic (5nm),6.1,2815.0,12,12,12,Cập Nhật
+Apple,256,8,Apple A17 Pro (3 nm),6.1,4441.0,48,12,0,31999000
+Samsung,128,8,Exynos 1380 (5 nm),6.6,5000.0,8,5,50,8290000
+Oppo,128,4,Mediatek MT6769 Helio G85 (12nm),6.56,5000.0,8,2,0,4989000
+Oppo,256,8,Mediatek Dimensity 7050 (6 nm),6.7,5000.0,2,64,8,8990000
+Apple,256,6,Apple A16 Bionic (4 nm),6.7,0.0,12,48,0,20999000
+Apple,128,6,Apple A15 Bionic (5 nm),6.1,3279.0,12,12,0,17989000
+Xiaomi,64,3,Mediatek Helio G36 (12 nm),6.71,5000.0,8,8,0,2490000
+Samsung,256,12,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),6.8,5000.0,50,10,12,37490000
+Apple,512,6,Apple A16 Bionic (4 nm),6.7,4323.0,48,12,12,37989000
+Samsung,512,12,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.7,4000.0,12,50,0,32900000
+Samsung,512,12,Exynos 2400 (4 nm) 10 nhân,6.5,4900.0,50,10,12,30490000
+Samsung,512,12,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),7.6,4400.0,50,12,10,42989000
+Oppo,256,12,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),6.8,4300.0,48,50,32,22989000
+Samsung,128,6,Mediatek MT8781 Helio G99 (6nm),6.5,5000.0,50,5,2,6989000
+Apple,64,4,Apple A12 Bionic (7 nm),5.8,2658.0,12,12,0,7789000
+Oppo,128,8,Qualcomm SM6225 Snapdragon 680 4G (6 nm),6.56,5000.0,50,2,0,5490000
+Samsung,256,12,Qualcomm SM8550-AC Snapdragon 8 Gen 3 (4 nm),7.6,4400.0,50,10,12,43990000
+Samsung,128,8,Exynos 1380 (5 nm),6.6,5000.0,8,5,50,8290000
+Xiaomi,128,6,Snapdragon 685 8 nhân,6.67,5000.0,108,2,8,4799000
+Samsung,128,4, Mediatek Dimensity 6100 Plus,6.45,6000.0,2,2,50,4690000
+Apple,256,6,Apple A16 Bionic (4 nm),6.1,3279.0,12,48,0,25999000
+Apple,64,3,Apple A11 Bionic (10 nm),5.5,2691.0,12,12,0,5689000
+Samsung,128,8,Exynos 2200 (4 nm),6.4,4500.0,12,50,8,14899000
+Apple,64,3,Apple A11 Bionic (10 nm),5.5,2691.0,12,12,0,6189000
+Samsung,64,3,Mediatek MT6765 Helio P35 (12nm),6.5,5000.0,13,2,0,3189000
+Apple,128,6,Apple A15 Bionic (5 nm),6.1,3095.0,12,12,12,21189000
+Apple,256,4,Apple A13 Bionic (7 nm+),6.5,3969.0,12,12,12,14789000
+Xiaomi,64,3,Mediatek Helio G36 (12 nm),6.52,5000.0,8,8,0,Cập Nhật
+Apple,128,6,Apple A16 Bionic (4 nm),6.7,4383.0,12,48,0,20999000
+Apple,256,6,Apple A16 Bionic (4 nm),6.7,0.0,12,48,0,21999000
+Oppo,256,8,Qualcomm SM6225 Snapdragon 680 4G (6 nm),6.67,5000.0,50,2,0,6490000
+Apple,128,6,Apple A15 Bionic (5 nm),6.7,4323.0,12,12,0,Cập Nhật
+Apple,128,8,Apple A17 Pro (3 nm),6.1,3274.0,48,12,0,Cập Nhật
+Samsung,256,12,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),6.8,5000.0,50,10,12,33990000
+Samsung,128,4, Mediatek Dimensity 6100 Plus,6.45,6000.0,2,2,50,4690000
+Samsung,512,12,Qualcomm SM8550-AC Snapdragon 8 Gen 3 (4 nm),7.6,4400.0,50,10,12,47990000
+Apple,256,4,Apple A13 Bionic (7 nm+),6.5,3969.0,12,12,12,15789000
+Apple,128,6,Apple A16 Bionic (4 nm),6.1,3279.0,12,48,0,Cập Nhật
+Samsung,256,12,Exynos 2400 (4 nm) 10 nhân,6.7,4900.0,50,10,12,30490000
+Samsung,256,8,Exynos 2400 (4 nm) 10 nhân,6.2,4000.0,50,10,12,22990000
+Apple,256,6,Apple A15 Bionic (5 nm),6.7,4323.0,12,12,0,21989000
+Apple,128,6,Apple A16 Bionic (4 nm),6.7,0.0,12,48,0,Cập Nhật
+Apple,128,8,Apple A17 Pro (3 nm),6.1,3274.0,48,12,0,26999000
+Apple,256,6,Apple A16 Bionic (4 nm),6.7,4323.0,48,12,12,35990000
+Apple,512,6,Apple A16 Bionic (4 nm),6.1,3279.0,12,48,0,31999000
+Samsung,256,8,Exynos 2400 (4 nm) 10 nhân,6.2,4000.0,50,10,12,26490000
+Oppo,256,8,Mediatek MT6877V Dimensity 7050 (6 nm),6.7,5000.0,64,32,8,10900000
+Apple,128,6,Apple A14 Bionic (5nm),6.1,2815.0,12,12,12,Cập Nhật
