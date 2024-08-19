@@ -1,6 +1,7 @@
 import time
-from ..producer import send_message
-from Stream_layer.ML_consumer import consum
+from producer import send_message
+
+from Batch_layer.HDFS_consumer import consum_hdfs
 import threading
 from Stream_data.stream_data import generate_real_time_data
 
@@ -23,7 +24,7 @@ def producer_thread():
 def consumer_thread():
     while True:
         try:
-            consum()
+            consum_hdfs()
             # Sleep for a short interval before consuming the next message
             time.sleep(3)
         except Exception as e:
@@ -40,5 +41,3 @@ consumer_thread.start()
 # Wait for the threads to finish (which will never happen in this case as they run infinitely)
 producer_thread.join()
 consumer_thread.join()
-
-
