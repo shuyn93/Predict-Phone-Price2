@@ -1,3 +1,9 @@
+import sys
+import os
+
+# Thêm đường dẫn gốc của dự án vào sys.path
+sys.path.append('/home/h-user/Predict-Phone-Price')
+
 import time
 from producer import send_message
 
@@ -9,7 +15,7 @@ from Stream_data.stream_data import generate_real_time_data
 def producer_thread():
     while True:
         try:
-            file_path = r'/home/hadoop/Predict-Phone-Price/ML/phone_data_ml.csv'
+            file_path = r'/home/h-user/Predict-Phone-Price/ML/phone_data_ml.csv'
             message = generate_real_time_data(file_path)
 
             send_message(message)
